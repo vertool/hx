@@ -3,7 +3,7 @@ pkg update -y
 pkg install upgrade -y
 pkg install git -y
 termux-setup-storage
-
+cd hx
 # Install INXTA
 git clone https://github.com/vertool/INXTA
 
