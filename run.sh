@@ -1,5 +1,5 @@
 #!/bin/bash
-pkg update && pkg upgrade -y pkg install git -y && termux-setup-storage
+pkg update && pkg upgrade -y && pkg install git -y && termux-setup-storage
 
 # Install INXTA
 git clone https://github.com/vertool/INXTA
