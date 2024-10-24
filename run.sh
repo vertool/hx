@@ -6,7 +6,7 @@ git clone https://github.com/vertool/INXTA
 
 # Clone new version
 cd "INXTA"
-
+termux-setup-storage
 # Initializing the bash
 chmod +x setup.sh
 
